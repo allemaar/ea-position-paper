@@ -1,0 +1,35 @@
+{
+  "title": "Elastic Automators: A Diagnostic Vocabulary for Language-Model-Driven Workflow Systems",
+  "description": "<p>We argue that many deployed language-model-driven systems are better described as <em>elastic automation</em> than as artificial minds. Traditional automation was rigid by design; language models did not need to produce minds to change this arrangement &mdash; they gave automation a flexible interface to natural language. We define an <em>elastic automator</em> as a system that uses a language model to turn uncertain human input into executable structure, then loops through generation, evaluation, correction, and presentation until the output appears intelligent. We argue that treating these systems as artificial minds creates a category error with design consequences, and propose a diagnostic frame: five loop questions that replace metaphysical inquiries with practical engineering ones. Naming changes design.</p>",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "creators": [
+    {
+      "name": "Mares, Alexandru",
+      "orcid": "0009-0009-6713-9780",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "keywords": [
+    "elastic automation",
+    "elastic automator",
+    "language models",
+    "workflow systems",
+    "AI vocabulary",
+    "category error",
+    "diagnostic frame",
+    "position paper"
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "communities": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/allemaar/ea-position-paper",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "version": "0.12.0"
+}
