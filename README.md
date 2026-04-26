@@ -4,14 +4,15 @@
 
 **Author:** Alexandru Mares — [allemaar.com](https://allemaar.com)
 **ORCID:** [0009-0009-6713-9780](https://orcid.org/0009-0009-6713-9780)
-**Version:** 0.12.0 (release candidate)
-**Status:** Pre-Zenodo deposit
+**Version:** 1.0.0
+**Status:** Published — 2026-04-27
 **License:** [CC-BY-4.0](LICENSE)
 
-<!-- Badges populate at v1.0.0 release:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
--->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19802018.svg)](https://doi.org/10.5281/zenodo.19802018)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+**Zenodo:** [zenodo.org/records/19802018](https://zenodo.org/records/19802018)
+**Concept DOI** (always resolves to latest version): [10.5281/zenodo.19802017](https://doi.org/10.5281/zenodo.19802017)
 
 ---
 
@@ -41,15 +42,23 @@ We define an **elastic automator** as a system that uses a language model to tur
 
 ## Cite
 
+**APA:**
+
+> Mares, A. (2026). *Elastic Automators: A Diagnostic Vocabulary for Language-Model-Driven Workflow Systems* (Version 1.0.0) [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.19802018
+
+**BibTeX:**
+
 ```bibtex
 @misc{mares2026elastic,
   author       = {Mares, Alexandru},
   title        = {Elastic Automators: A Diagnostic Vocabulary
                   for Language-Model-Driven Workflow Systems},
   year         = {2026},
+  month        = apr,
   publisher    = {Zenodo},
-  version      = {0.12.0},
-  note         = {DOI assigned at v1.0.0 release}
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.19802018},
+  url          = {https://doi.org/10.5281/zenodo.19802018}
 }
 ```
 
@@ -59,20 +68,26 @@ GitHub also renders a "Cite this repository" button from [`CITATION.cff`](CITATI
 
 ## Status
 
-This is a **release candidate**. The paper text is complete; final-pass items before v1.0.0:
+**Published as Zenodo preprint v1.0.0 on 2026-04-27.** DOI: [10.5281/zenodo.19802018](https://doi.org/10.5281/zenodo.19802018).
 
-- [ ] Render `paper.pdf`
-- [ ] Lossless-optimize figures with `oxipng -o max --strip safe figures/*.png`
-- [ ] Tag `v1.0.0`
-- [ ] Flip repo public
-- [ ] Enable Zenodo GitHub integration → automatic DOI mint
-- [ ] Submit to arXiv (cs.AI primary, cs.CY cross-list) with Zenodo DOI in comments
+- [x] Render `paper.pdf`
+- [x] Manual deposit to Zenodo → DOI minted
+- [x] Tag `v1.0.0`
+- [x] Flip repo public
+- [ ] Lossless-optimize figures with `oxipng -o max --strip safe figures/*.png` *(optional, not blocking)*
+- [ ] Submit to arXiv *(deferred — Zenodo DOI is the authoritative deposit; arXiv may follow when endorsement path is natural)*
 
 ---
 
 ## Reproduce
 
 This is a position paper. There is no code or data to reproduce; the contribution is conceptual (vocabulary, lineage, diagnostic loop questions).
+
+---
+
+## More from this author
+
+See [allemaar/papers](https://github.com/allemaar/papers) for the full research program — current and forthcoming papers across Textual Kinematics (TK), Yon Notation (YON), Sightline Encoding Notation (SEN), and Elastic Automators (EA).
 
 ---
 

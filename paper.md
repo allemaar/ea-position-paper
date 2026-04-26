@@ -4,13 +4,17 @@ domain: EA
 series-id: P1
 type: position-paper
 author: "[[../../../Context/Alexandru Mares/Alexandru Mares|Alexandru Mares]]"
-status: draft-v12-rc
+status: published
 priority: foundational
-venue: Zenodo → arXiv (cs.AI primary, cs.CY cross-list)
+venue: Zenodo (10.5281/zenodo.19802018)
+doi: 10.5281/zenodo.19802018
+zenodo-url: https://zenodo.org/records/19802018
+zenodo-concept-doi: 10.5281/zenodo.19802017
+github-repo: https://github.com/allemaar/ea-position-paper
 related:
   - "[[../ea-papers|EA Papers Map]]"
   - "[[../../papers-index|Papers Index]]"
-tags: [type/paper, domain/EA, status/draft, project/EA]
+tags: [type/paper, domain/EA, status/published, project/EA]
 ---
 
 # Elastic Automators: A Diagnostic Vocabulary for Language-Model-Driven Workflow Systems
@@ -19,11 +23,12 @@ tags: [type/paper, domain/EA, status/draft, project/EA]
 > **Title:** Elastic Automators: A Diagnostic Vocabulary for Language-Model-Driven Workflow Systems
 > **Author:** Alexandru Mares, Independent Researcher
 > **ORCID:** 0009-0009-6713-9780
-> **Version:** 0.12.0
-> **Status:** Release candidate
-> **Target:** Zenodo (primary, instant DOI) → arXiv (cs.AI primary, cs.CY cross-list)
+> **Version:** 1.0.0
+> **Status:** Published
+> **DOI:** [10.5281/zenodo.19802018](https://doi.org/10.5281/zenodo.19802018)
+> **Repository:** [github.com/allemaar/ea-position-paper](https://github.com/allemaar/ea-position-paper)
 > **Created:** 2026-04-26
-> **Last Modified:** 2026-04-26
+> **Published:** 2026-04-27
 
 ---
 
