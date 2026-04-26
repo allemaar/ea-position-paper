@@ -76,12 +76,6 @@ This is a position paper. There is no code or data to reproduce; the contributio
 
 ---
 
-## Related work
-
-See [allemaar/allemaar](https://github.com/allemaar/allemaar) for the full paper map across TK, YON, SEN, and EA research domains.
-
----
-
 ## License
 
 Paper text and figures: [CC-BY-4.0](LICENSE). Any code in subdirectories: MIT, unless stated otherwise.
