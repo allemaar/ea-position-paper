@@ -87,7 +87,7 @@ This is a position paper. There is no code or data to reproduce; the contributio
 
 ## More from this author
 
-See [allemaar/papers](https://github.com/allemaar/papers) for the full research program — current and forthcoming papers across Textual Kinematics (TK), Yon Notation (YON), Sightline Encoding Notation (SEN), and Elastic Automators (EA).
+See [allemaar/papers](https://github.com/allemaar/papers) for the full research program — current and forthcoming papers across Textual Kinematics (TK), Yon Notation (YON), Sightline Encoding Notation (SEN), Elastic Automators (EA), and Sai (SAI).
 
 ---
 
